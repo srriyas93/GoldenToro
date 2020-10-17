@@ -1,0 +1,72 @@
+.floatright{
+    float: right;
+}
+.floatleft{
+    float: left;
+}
+.aligncenter{
+	text-align: center;
+}
+.mousehand{
+	cursor: pointer;
+}
+.card {
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    border: 0;
+    position: relative;
+    width: 100%;
+    box-shadow: none;
+    background: rgba(0,0,0,0);
+    /* min-height: 400px; */
+}
+
+.report_card {
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    border: 0;
+    position: relative;
+    width: 100%;
+    box-shadow: none;
+    background: rgba(0,0,0,0);
+}
+
+.card-dashboard {
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    border: 0;
+    position: relative;
+    width: 100%;
+    box-shadow: none;
+    background: rgba(0,0,0,0);
+}
+
+.padd13px{padding:13px !important;}
+
+.margin-right10{
+	margin:0 10px 0 0;
+}
+.margin-right20{
+	margin:0 20px 0 0;
+}
+.margin-left-right10{
+	margin:0 10px 0 10px;
+}
+.margin-top-bottom10{padding:15px 0 15px 0}
+
+.calHoliday{height:25px;font-weight: bold;}
+
+.viewall{
+    margin:18px 0 0 0;
+    float:right;
+    text-transform: uppercase;
+}
+
+.font-14{font-size: 14px;}
+.font-15{font-size: 15px;}
